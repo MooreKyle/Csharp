@@ -1,0 +1,6 @@
+Instructions
+
+Write an application named SumInts that allows the user to enter any number of integers continuously until the user enters 999. Display the sum of the values entered, not including 999.
+
+Grading
+When you have completed your program, click the Submit button to record your score.
