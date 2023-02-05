@@ -1,6 +1,0 @@
-Instructions
-
-Write an application named SumFiveInts that allows the user to enter five integers and displays their sum.
-
-Grading
-When you have completed your program, click the Submit button to record your score.
