@@ -1,0 +1,21 @@
+Instructions
+
+Create a program for Smalltown Regional Airport Flights that accepts either an integer flight number or string airport code from the options in Figure 8-33.
+
+Pass the user’s entry to one of two overloaded GetFlightInfo() methods, and then display a returned string with all the flight details. For example, if 201 was input, the output would be: Flight #201 AUS Austin Scheduled at: 0710 (note that there should be two spaces between 'Austin' and 'Scheduled').
+
+The method version that accepts an integer looks up the airport code, name, and time of flight; the version that accepts a string description looks up the flight number, airport name, and time.
+
+The methods return a message if the flight is not found. For example, if 100 was input, the output should be Flight #100 was not found.
+
+If no flights were scheduled for the airport code entered, for example MCO, the message displayed should be Flight to MCO was not found.
+
+
+
+See picture "Figure8-33" for details pertaining to this exercise.
+Flight details
+
+
+
+Grading
+When you have completed your program, click the Submit button to record your score.

@@ -1,0 +1,10 @@
+Instructions
+
+Create a new program named Reverse4 and declare four integer variables with the values 23, 45, 55, and 67.
+
+Add a method named Reverse that reverses the positions of four integer variables. The Reverse method should accept the variables as references.
+
+Write a Main() method that displays the four variables both before and after reversing them to ensure the method works correctly.
+
+Grading
+When you have completed your program, click the Submit button to record your score.
