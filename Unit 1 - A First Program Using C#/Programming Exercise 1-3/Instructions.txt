@@ -1,6 +1,0 @@
-Instructions
-
-Write a program named Comments that displays a statement that defines program comments. Include at least one block comment, one line comment, and one WriteLine() statement in the program.
-
-Grading
-When you have completed your program, click the Submit button to record your score.

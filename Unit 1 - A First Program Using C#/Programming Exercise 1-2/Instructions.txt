@@ -1,6 +1,0 @@
-Instructions
-
-Write, compile, and test a program named Lyrics that displays at least four lines of your favorite song.
-
-Grading
-When you have completed your program, click the Submit button to record your score.
