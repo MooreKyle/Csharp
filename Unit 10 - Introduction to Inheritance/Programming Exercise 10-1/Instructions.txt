@@ -1,5 +1,0 @@
-Instructions
-
-Create an application class named LetterDemo that instantiates objects of two classes named Letter and CertifiedLetter and that demonstrates all their methods.
-
-The classes are used by a company to keep track of letters they mail to clients. The Letter class includes auto-implemented properties for the Name of the recipient and the Date mailed (stored as strings).
