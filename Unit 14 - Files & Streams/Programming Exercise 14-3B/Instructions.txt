@@ -1,0 +1,24 @@
+Instructions
+
+Write the program ReadPatientRecords that reads the file Patients.txt and displays each patient’s data on the screen.
+
+An example of the program is shown below:
+
+
+
+IdNumber  Name                 Balance
+
+p1        Patient1              $20.00
+p2        Patient2              $40.00
+p3        Patient3             $120.00
+p4        Patient4              $20.00
+p5        Patient5              $35.00
+
+
+
+In order to prepend the $ to currency values, the program will need to use the CultureInfo.GetCultureInfo method. In order to do this, include the statement using System.Globalization; at the top of your program and format the output statements as follows: WriteLine("This is an example: {0}", value.ToString("C", CultureInfo.GetCultureInfo("en-US")));
+
+
+
+Grading
+When you have completed your program, click the Submit button to record your score.
