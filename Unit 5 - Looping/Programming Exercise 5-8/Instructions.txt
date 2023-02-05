@@ -1,0 +1,6 @@
+Instructions
+
+Write an application named OddNums that displays all the odd numbers from 1 through 99.
+
+Grading
+When you have completed your program, click the Submit button to record your score.
