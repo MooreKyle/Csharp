@@ -1,6 +1,0 @@
-Instructions
-
-Add an operator*() method to the Fraction class created in Programming Exercise 11a so that it correctly multiplies two Fractions. The result should be in proper, reduced format. Demonstrate that the method works correctly in a program named FractionDemo2.
-
-Grading
-When you have completed your program, click the Submit button to record your score.
